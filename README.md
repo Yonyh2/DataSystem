@@ -6,41 +6,52 @@ El proyecto fue desarrollado en **NetBeans**, utilizando **Java Swing** para la 
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 Este proyecto no corresponde a un sistema en producción, sino a un **proyecto académico y de práctica**, enfocado en:
 
-- Aplicar conceptos de **programación orientada a objetos (POO)**.
-- Implementar conexión y operaciones con **bases de datos MySQL**.
-- Manejar roles y flujos dentro de un sistema realista.
+- Aplicar conceptos de **Programación Orientada a Objetos (POO)**.
+- Implementar conexión y operaciones con **bases de datos MySQL (JDBC)**.
+- Diseñar un sistema con **roles y flujos de trabajo** realistas.
 - Practicar buenas prácticas de desarrollo y control de versiones con **Git y GitHub**.
 
 ---
 
-## 🧩 Funcionalidades principales
+## Funcionalidades principales
 
-- Gestión de usuarios (roles como administrador, capturista y técnico).
+- Gestión de usuarios (roles: administrador, capturista y técnico).
 - Registro y administración de clientes.
 - Gestión de equipos para mantenimiento y reparación.
-- Conexión a base de datos MySQL (CRUD).
+- Operaciones CRUD con base de datos MySQL.
 - Generación de **reportes en PDF**.
 - Visualización de **gráficas** para análisis de datos.
 - Interfaz gráfica desarrollada con **Java Swing**.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Java SE**
 - **Java Swing**
-- **NetBeans IDE**
-- **MySQL**
 - **JDBC**
+- **MySQL**
+- **NetBeans IDE**
 - **Git & GitHub**
 
 ---
 
-## 📂 Tipo de proyecto
+## Base de datos
+
+El proyecto incluye un archivo SQL con la **estructura de la base de datos** (sin datos de prueba).
+
+**Pasos generales:**
+1. Crear una base de datos en MySQL.
+2. Importar el archivo `.sql` incluido en el proyecto.
+3. Configurar las credenciales locales en la clase de conexión.
+
+---
+
+## Tipo de proyecto
 
 - Aplicación de escritorio
 - Proyecto de aprendizaje / práctica académica
@@ -48,16 +59,16 @@ Este proyecto no corresponde a un sistema en producción, sino a un **proyecto a
 
 ---
 
-## 🚀 Estado del proyecto
+## Estado del proyecto
 
-🔧 En desarrollo  
-Este proyecto se encuentra en constante mejora a medida que se adquieren nuevos conocimientos y se practican nuevas funcionalidades de Java.
+En desarrollo continuo  
+El proyecto se encuentra en constante mejora como parte del proceso de aprendizaje y práctica en Java.
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Yony Alexander Huertas**  
 Tecnólogo en Análisis y Desarrollo de Software  
-📍 Ipiales, Nariño – Colombia  
-🔗 GitHub: https://github.com/Yonyh2
+Ipiales, Nariño – Colombia  
+GitHub: https://github.com/Yonyh2
