@@ -9,8 +9,8 @@ public class Conexion {
         try {
             Connection cn = DriverManager.getConnection(
                     "jdbc:mysql://localhost/bd_ds", 
-                    "root", 
-                    ""
+                    "data_user", 
+                    "data123"
             );
             return cn;
         } catch (SQLException e) {

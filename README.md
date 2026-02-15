@@ -6,7 +6,7 @@ El proyecto fue desarrollado en **NetBeans**, utilizando **Java Swing** para la 
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 Este proyecto no corresponde a un sistema en producción, sino a un **proyecto académico y de práctica**, enfocado en:
 
@@ -17,7 +17,7 @@ Este proyecto no corresponde a un sistema en producción, sino a un **proyecto a
 
 ---
 
-## 🧩 Funcionalidades principales
+## Funcionalidades principales
 
 - Gestión de usuarios (roles como administrador, capturista y técnico).
 - Registro y administración de clientes.
@@ -29,7 +29,7 @@ Este proyecto no corresponde a un sistema en producción, sino a un **proyecto a
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Java SE**
 - **Java Swing**
@@ -40,7 +40,7 @@ Este proyecto no corresponde a un sistema en producción, sino a un **proyecto a
 
 ---
 
-## 📂 Tipo de proyecto
+## Tipo de proyecto
 
 - Aplicación de escritorio
 - Proyecto de aprendizaje / práctica académica
@@ -48,16 +48,16 @@ Este proyecto no corresponde a un sistema en producción, sino a un **proyecto a
 
 ---
 
-## 🚀 Estado del proyecto
+## Estado del proyecto
 
-🔧 En desarrollo  
+En desarrollo  
 Este proyecto se encuentra en constante mejora a medida que se adquieren nuevos conocimientos y se practican nuevas funcionalidades de Java.
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Yony Alexander Huertas**  
 Tecnólogo en Análisis y Desarrollo de Software  
-📍 Ipiales, Nariño – Colombia  
-🔗 GitHub: https://github.com/Yonyh2
+Ipiales, Nariño – Colombia  
+GitHub: https://github.com/Yonyh2
