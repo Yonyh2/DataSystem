@@ -50,6 +50,8 @@ El proyecto incluye un archivo SQL con la **estructura de la base de datos** (si
 1. Crear una base de datos en MySQL.
 2. Importar el archivo `.sql` incluido en el proyecto.
 3. Configurar las credenciales locales en la clase de conexión.
+4. usa Usuario: admin
+5. Usa contraseña: admin123
 
 ---
 
